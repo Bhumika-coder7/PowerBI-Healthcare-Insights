@@ -168,3 +168,13 @@ Passionate about building clean, insight-driven dashboards.
 
 ## ⭐ If you find this project helpful, consider giving it a star!
 
+## 📂 Project Structure
+
+```text
+PowerBI-Healthcare-Insights/
+│── README.md  
+│── dashboard.pbix  
+│── images/  
+│   ├── dashboard_preview.gif  
+│   └── dashboard_full.png```
+
