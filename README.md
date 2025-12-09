@@ -21,7 +21,7 @@ It helps stakeholders analyze:
 ---
 
 ## 📸 Dashboard Preview
-![Healthcare Dashboard](C:\Users\Bhumika Gajbhiye\OneDrive\Pictures\Screenshots\dashboard_full.png)
+![Healthcare Dashboard](dashboard_full.png)
 ---
 
 ## 📌 Key Features
