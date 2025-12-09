@@ -20,6 +20,10 @@ It helps stakeholders analyze:
 - Admission type behavior
 ---
 
+## 📸 Dashboard Preview
+![Healthcare Dashboard](C:\Users\Bhumika Gajbhiye\OneDrive\Pictures\Screenshots\dashboard_full.png)
+---
+
 ## 📌 Key Features
 
 ### 📍 **1. KPI Overview**
@@ -126,7 +130,9 @@ PowerBI-Healthcare-Insights/
 │── dashboard.pbix  
 │── images/  
 │   ├── dashboard_preview.gif  
-│   └── dashboard_full.png
+│   └── dashboard_full.png  
+│── data/   (optional)
+```
 ---
 
 ## 🧹 Data Preparation Summary
