@@ -126,7 +126,7 @@ PowerBI-Healthcare-Insights/
 │── dashboard.pbix  
 │── images/  
 │   ├── dashboard_preview.gif  
-│   └── dashboard_full.png```
+│   └── dashboard_full.png
 ---
 
 ## 🧹 Data Preparation Summary
