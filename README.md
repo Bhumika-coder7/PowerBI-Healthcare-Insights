@@ -152,7 +152,8 @@ Data was cleaned and transformed using **Power Query**:
 2. Open using **Power BI Desktop**  
 3. Load or refresh the data source  
 4. Interact with charts, filters, and visuals  
-5. Review insights from KPIs and charts  
+5. Review insights from KPIs and charts
+6. A PDF version of the dashboard is available for quick preview.
 ---
 
 ## 🚀 Future Enhancements
