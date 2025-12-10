@@ -124,13 +124,16 @@ Below are the key analytical insights derived from the dashboard.
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 ```text
 PowerBI-Healthcare-Insights/
 │── README.md  
-│── dashboard.pbix  
-│── images/  
-│   ├── dashboard_preview.gif  
-│── └── dashboard_full.png  
+│── Healthcare_dashboard.pbix  
+│── Healthcare_dashboard.pdf  
+│── dashboard_full.png  
+│── healthcare_dataset.xlsx  
+│── LICENSE  
 ```
 ---
 
