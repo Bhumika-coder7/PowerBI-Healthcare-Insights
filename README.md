@@ -131,7 +131,6 @@ PowerBI-Healthcare-Insights/
 │── images/  
 │   ├── dashboard_preview.gif  
 │   └── dashboard_full.png  
-│── data/   (optional)
 ```
 ---
 
